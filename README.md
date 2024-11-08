@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **abdielprime@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1SfpSLIoTUDxVZ-zDMs3VCj1THwG0VWZz/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://rxresu.me/abdielprime/abdulalh-resume-karachi) [Resume 2](https://drive.google.com/file/d/1SfpSLIoTUDxVZ-zDMs3VCj1THwG0VWZz/view?usp=sharing)
 
 - ⚡ Fun fact **My 1 month of experience is equivalent to 1 year.**
 
