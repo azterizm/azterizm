@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at **odesign**
 
-- 🌱 I’m currently learning **threejs, blender, gasp, webgl**
+- 🌱 I’m currently learning **ai development, threejs, blender, gasp, webgl**
 
-- 👨‍💻 All of my projects are available at [https://obad.work/](https://obad.work/)
+- 👨‍💻 All of my projects are available at [https://azterizm.com/](https://azterizm.com/)
 
 - 💬 Ask me about **react, gasp, remixjs, framer-motion, redis**
 
