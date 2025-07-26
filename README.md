@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react, gasp, remixjs, framer-motion, redis**
 
-- 📫 How to reach me **abdielprime@gmail.com**
+- 📫 How to reach me **contact@azterizm.com**
 
 - ⚡ Fun fact **My 1 month of experience is equivalent to 1 year.**
 
