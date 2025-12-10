@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **ai development, threejs, blender, gasp, webgl**
 
-- 👨‍💻 All of my projects are available at [https://azterizm.com/](https://azterizm.com/)
+- 👨‍💻 All of my projects are available at [https://theimpossible.expert/](https://theimpossible.expert/)
 
 - 💬 Ask me about **react, gasp, remixjs, framer-motion, redis**
 
-- 📫 How to reach me **contact@azterizm.com**
+- 📫 How to reach me **contact@theimpossible.expert**
 
 - ⚡ Fun fact **My 1 month of experience is equivalent to 1 year.**
 
