@@ -1,14 +1,4 @@
 <div align="center">
-  <h2>🌐 Website</h2>
-  
-  <!-- The clickable image area -->
-  <a href="https://memonsystems.com/" target="_blank">
-    <img src="website_preview.jpg" alt="Memon Systems Website Preview" width="100%" />
-  </a>
-
-  <br />
-  
-  <!-- A secondary clickable badge just for extra polish -->
   <a href="https://memonsystems.com/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-Memon_Systems-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website Button" />
   </a>
