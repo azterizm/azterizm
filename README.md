@@ -1,17 +1,5 @@
-<div align="center">
-  <a href="https://memonsystems.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-Memon_Systems-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Website Button" />
-  </a>
-</div>
+## Abdullah Memon
 
-<br/>
-<br/>
+AI engineer. I build LLM systems that check their own answers, and I measure every change before I claim it. Python and TypeScript. Remote from Pakistan, UTC+5.
 
-<!-- Wrapped the streak graphic in a centered div -->
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-delta-rust.vercel.app?user=azterizm&theme=gruvbox&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
----
+[LinkedIn](https://www.linkedin.com/in/abdullah-memon-9565352a5) · [memonsystems.com](https://memonsystems.com) · abdullah@azterizm.com
